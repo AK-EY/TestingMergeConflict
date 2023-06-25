@@ -9,6 +9,8 @@ public class CommandExecution {
 		
 		System.out.println("Added new code by slaveBranch");
 		
+		System.out.println("Added new code by Branch1.");
+		
 		System.out.println("Other code added by slaveBranch2");
 
 	}
